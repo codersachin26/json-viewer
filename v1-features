@@ -1,0 +1,4 @@
+-> A user should be able to format the json string on the app
+-> A copy btn should be available for json string and a tooltip should be display for copy e.g. "copied"
+-> A user should be able to minify the json string
+-> sorting should be available for json string
